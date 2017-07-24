@@ -1,1 +1,2 @@
+we wlii see merge tool operations
 hi this is git merge practice session
